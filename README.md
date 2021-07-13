@@ -12,7 +12,7 @@
 
 ### 🎓 Education
 
-- Bachelors of Technology in Computer Science - Specialization in Cloud Computing
+- Bachelor of Technology in Computer Science - Specialization in Cloud Computing
 
 ### Skills
 

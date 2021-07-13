@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
-### I'm Shivansh...  I'm a DevOps engineer!
+### 👋 I'm Shivansh...  I'm a DevOps engineer!
 
 - **🔭 I’m currently working on refining ETL pipelines development lifecycles!**
 

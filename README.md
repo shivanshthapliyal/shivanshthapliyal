@@ -17,10 +17,10 @@
 ### Skills
 
 [![](https://img.shields.io/badge/Amazon%20Web%20Services-e65c00?style=for-the-badge&logo=Amazon%20AWS)](https://github.com/shivanshthapliyal)
+[![](https://img.shields.io/badge/Kubernetes-000099?style=for-the-badge&logoColor=white&logo=Kubernetes)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Terraform-0039e6?style=for-the-badge&logo=Terraform)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Ansible-cc3300?style=for-the-badge&logo=Ansible&logoColor=white)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Docker-008ae6?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/shivanshthapliyal)
-[![](https://img.shields.io/badge/Kubernetes-000099?style=for-the-badge&logoColor=white&logo=Kubernetes)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Git-e68a00?style=for-the-badge&logoColor=white&logo=GitHub)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Jenkins-cc3300?style=for-the-badge&logoColor=white&logo=Jenkins)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Jenkins-cc3300?style=for-the-badge&logoColor=white&logo=Jenkins)](https://github.com/shivanshthapliyal)

@@ -4,7 +4,7 @@
 
 - **🔭 I’m currently working on refining ETL pipelines development lifecycles!**
 
-- **🌱 I’m currently exploring Airflow integration with Kubernetes**
+- **🌱 I’m currently exploring Airflow/Spark integration with Kubernetes**
 
 - **📫 How to reach me:**
 

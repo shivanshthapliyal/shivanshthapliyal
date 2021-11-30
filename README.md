@@ -23,7 +23,6 @@
 [![](https://img.shields.io/badge/Docker-008ae6?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Git-e68a00?style=for-the-badge&logoColor=white&logo=GitHub)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Jenkins-cc3300?style=for-the-badge&logoColor=white&logo=Jenkins)](https://github.com/shivanshthapliyal)
-[![](https://img.shields.io/badge/Jenkins-cc3300?style=for-the-badge&logoColor=white&logo=Jenkins)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/NiFi-7299a7?style=for-the-badge&logoColor=white&logo=Apache)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Airflow-9B002F?style=for-the-badge&logoColor=white&logo=Apache%20Airflow)](https://github.com/shivanshthapliyal)
 [![](https://img.shields.io/badge/Python-003300?style=for-the-badge&logo=python&logoColor=white)](https://github.com/shivanshthapliyal)

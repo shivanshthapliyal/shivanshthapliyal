@@ -1,14 +1,11 @@
 ### Hi there! 👋
 
-### 👨‍💻 I'm Shivansh...  I'm a DevOps engineer!
+### 👨‍💻 I'm Shivansh...  I'm a DataOps engineer!
 
-- **🔭 I’m currently working on refining ETL pipelines development lifecycles!**
+- **🔭 I’m currently working on performance tuning and deployment of Big Data technologies!**
+- **🌱 I’m currently also building a custom operator for Kubernetes!**
 
-- **🌱 I’m currently exploring Airflow/Spark integration with Kubernetes**
-
-- **📫 How to reach me:**
-
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/shivanshthapliyal)](https://in.linkedin.com/in/shivanshthapliyal)
+- **📫 How to reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/shivanshthapliyal)](https://in.linkedin.com/in/shivanshthapliyal)
 
 ### 🎓 Education
 

@@ -30,6 +30,7 @@
 [![]()](https://github.com/shivanshthapliyal)
 [![]()](https://github.com/shivanshthapliyal)
 
+![Snake animation](https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **shivanshthapliyal/shivanshthapliyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

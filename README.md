@@ -7,10 +7,11 @@
 
 - **📫 How to reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/shivanshthapliyal)](https://in.linkedin.com/in/shivanshthapliyal)
 
+<!--
 ### 🎓 Education
 
 - Bachelor of Technology in Computer Science - Specialization in Cloud Computing
-
+-->
 ![Snake animation](https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-contribution-grid-snake.svg)
 
 ### Skills

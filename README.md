@@ -11,8 +11,12 @@
 ### 🎓 Education
 
 - Bachelor of Technology in Computer Science - Specialization in Cloud Computing
--->
+
 ![Snake animation](https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-contribution-grid-snake.svg)
+-->
+
+![GitHub Snake Light](https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ### Skills
 

@@ -11,6 +11,8 @@
 
 - Bachelor of Technology in Computer Science - Specialization in Cloud Computing
 
+![Snake animation](https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-contribution-grid-snake.svg)
+
 ### Skills
 
 [![](https://img.shields.io/badge/Amazon%20Web%20Services-e65c00?style=for-the-badge&logo=Amazon%20AWS)](https://github.com/shivanshthapliyal)
@@ -26,8 +28,6 @@
 [![](https://img.shields.io/badge/Linux-EA9200?style=for-the-badge&logoColor=white&logo=Linux)](https://github.com/shivanshthapliyal)
 [![]()](https://github.com/shivanshthapliyal)
 [![]()](https://github.com/shivanshthapliyal)
-
-![Snake animation](https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **shivanshthapliyal/shivanshthapliyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

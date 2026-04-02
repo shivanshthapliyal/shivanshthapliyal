@@ -9,9 +9,6 @@ Based in Dubai. Writing code across the stack since it's all just code.
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,python,go,swift,ts,react,vue,postgres,redis,linux,github&theme=dark" />
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shivanshthapliyal)
 
 </div>
 

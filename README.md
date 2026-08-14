@@ -15,14 +15,3 @@ and the developer tooling that holds it all together. Based in Dubai.
 
 I work on cloud and Kubernetes platforms, IaC and GitOps delivery, AI-backed services,
 and the internal tooling that ties them together — mostly in Go, Python and TypeScript.
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-snake.svg" />
-</picture>
-</div>

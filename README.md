@@ -20,8 +20,6 @@ and the internal tooling that ties them together — mostly in Go, Python and Ty
 
 <div align="center">
 
-*Watch a snake eat my contributions*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/shivanshthapliyal/shivanshthapliyal/blob/output/github-snake.svg" />

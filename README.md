@@ -2,22 +2,19 @@
 
 ## Shivansh Thapliyal
 
-I build cloud infrastructure, backend services, CLI tools, and occasionally native apps.<br/>
-Based in Dubai. Writing code across the stack since it's all just code.
+I build across the stack — clusters and IaC underneath, AI systems on top,<br/>
+and the developer tooling that holds it all together. Based in Dubai.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,python,go,swift,ts,react,vue,postgres,redis,linux,github&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,aws,go,python,ts,react,nextjs,swift,postgres,linux&theme=dark" />
 
 </div>
 
 ---
 
-- [`k8s-reload`](https://github.com/shivanshthapliyal/k8s-reload) -- Kubernetes controller that auto-reloads pods on ConfigMap changes
-- [`k8s-debugger`](https://github.com/shivanshthapliyal/k8s-debugger) -- Tiny containerized debugging toolkit for Kubernetes
-- [`meridian`](https://github.com/shivanshthapliyal/meridian) -- Lightweight macOS menu bar world clock in SwiftUI
-- [`docker-airflow`](https://github.com/shivanshthapliyal/docker-airflow) -- Dockerized Apache Airflow setup
+I work on cloud and Kubernetes platforms, IaC and GitOps delivery, AI-backed services,
+and the internal tooling that ties them together — mostly in Go, Python and TypeScript.
 
 ---
 
